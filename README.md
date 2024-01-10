@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @0meezy
+- 👀 I’m interested in all things tech
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on python, java or javascript
+- 📫 How to reach me: email
